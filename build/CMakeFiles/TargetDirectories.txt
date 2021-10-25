@@ -1,0 +1,9 @@
+C:/Users/AVHN/git/CTFProjects/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/AVHN/git/CTFProjects/build/CMakeFiles/Experimental.dir
+C:/Users/AVHN/git/CTFProjects/build/CMakeFiles/Continuous.dir
+C:/Users/AVHN/git/CTFProjects/build/CMakeFiles/Nightly.dir
+C:/Users/AVHN/git/CTFProjects/build/CMakeFiles/Malware_HTB.dir
+C:/Users/AVHN/git/CTFProjects/build/CMakeFiles/PACKAGE.dir
+C:/Users/AVHN/git/CTFProjects/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/AVHN/git/CTFProjects/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/AVHN/git/CTFProjects/build/CMakeFiles/ZERO_CHECK.dir
